@@ -104,7 +104,6 @@ you are also do practice in any highlevel language by practice menu.It Is provid
     </div>
 </div>
 <div class="row" style="margin-top:70px">
-<!------------------------------------------------------start of updates ---------------------------------------------------------------->
        <h1 style="font-size:55px;color:maroon;text-align:center;font-weight:bold;font-family:Gabriola">News Updates</h1>
     <div class="row" style="margin-top:20px">
         <div class="col-sm-3" style="height:300px;">
@@ -193,8 +192,7 @@ Programming language share properties with natural languages to related to their
 
 
 
-</div><!------------------------container-fluid     --------------->
-<!-----------------------------start footer--------------------------------->
+</div>
 <div class="row" style="background:black;margin-top:60px;min-height: 300px; font-size: 23px; color: white; font-family: Gabriola;font-weight:bold">
                 <div class="col-sm-3" style="margin-left:30px">
                   <h1>Information</h1><hr>
