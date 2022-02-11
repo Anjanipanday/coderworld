@@ -185,7 +185,7 @@ Programming language share properties with natural languages to related to their
 <div class="col-sm-1"></div>
 <div class="col-sm-4">
 <video controls="autoplay" style="height:250px;width:450px;margin-top:100px">
-<source src="img/codeorg.mp4" /></div>
+<source src="img/codeorg.mp4" />
 </div>
 </div>
 
